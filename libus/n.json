@@ -1,323 +1,357 @@
 [{
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Action & Adventure",
-    "sub_categ_url": "https://1lib.us/category/201/Action--Adventure",
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Adult & Continuing Education",
+    "sub_categ_url": "https://1lib.us/category/224/Adult--Continuing-Education",
     "book_url": [
-      "https://1lib.us/category/201/Action--Adventure?page=1",
-      "https://1lib.us/category/201/Action--Adventure?page=2",
-      "https://1lib.us/category/201/Action--Adventure?page=3",
-      "https://1lib.us/category/201/Action--Adventure?page=4",
-      "https://1lib.us/category/201/Action--Adventure?page=5",
-      "https://1lib.us/category/201/Action--Adventure?page=6",
-      "https://1lib.us/category/201/Action--Adventure?page=7",
-      "https://1lib.us/category/201/Action--Adventure?page=8",
-      "https://1lib.us/category/201/Action--Adventure?page=9",
-      "https://1lib.us/category/201/Action--Adventure?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Anthologies",
-    "sub_categ_url": "https://1lib.us/category/202/Anthologies",
-    "book_url": [
-      "https://1lib.us/category/202/Anthologies?page=1",
-      "https://1lib.us/category/202/Anthologies?page=2",
-      "https://1lib.us/category/202/Anthologies?page=3",
-      "https://1lib.us/category/202/Anthologies?page=4",
-      "https://1lib.us/category/202/Anthologies?page=5",
-      "https://1lib.us/category/202/Anthologies?page=6",
-      "https://1lib.us/category/202/Anthologies?page=7",
-      "https://1lib.us/category/202/Anthologies?page=8",
-      "https://1lib.us/category/202/Anthologies?page=9",
-      "https://1lib.us/category/202/Anthologies?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Cozy Mysteries & Amateur Sleuths",
-    "sub_categ_url": "https://1lib.us/category/204/Cozy-Mysteries--Amateur-Sleuths",
-    "book_url": [
-      "https://1lib.us/category/204/Cozy-Mysteries--Amateur-Sleuths?page=1",
-      "https://1lib.us/category/204/Cozy-Mysteries--Amateur-Sleuths?page=2",
-      "https://1lib.us/category/204/Cozy-Mysteries--Amateur-Sleuths?page=3",
-      "https://1lib.us/category/204/Cozy-Mysteries--Amateur-Sleuths?page=4",
-      "https://1lib.us/category/204/Cozy-Mysteries--Amateur-Sleuths?page=5",
-      "https://1lib.us/category/204/Cozy-Mysteries--Amateur-Sleuths?page=6",
-      "https://1lib.us/category/204/Cozy-Mysteries--Amateur-Sleuths?page=7",
-      "https://1lib.us/category/204/Cozy-Mysteries--Amateur-Sleuths?page=8",
-      "https://1lib.us/category/204/Cozy-Mysteries--Amateur-Sleuths?page=9",
-      "https://1lib.us/category/204/Cozy-Mysteries--Amateur-Sleuths?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Detective & Crime Fiction",
-    "sub_categ_url": "https://1lib.us/category/205/Detective--Crime-Fiction",
-    "book_url": [
-      "https://1lib.us/category/205/Detective--Crime-Fiction?page=1",
-      "https://1lib.us/category/205/Detective--Crime-Fiction?page=2",
-      "https://1lib.us/category/205/Detective--Crime-Fiction?page=3",
-      "https://1lib.us/category/205/Detective--Crime-Fiction?page=4",
-      "https://1lib.us/category/205/Detective--Crime-Fiction?page=5",
-      "https://1lib.us/category/205/Detective--Crime-Fiction?page=6",
-      "https://1lib.us/category/205/Detective--Crime-Fiction?page=7",
-      "https://1lib.us/category/205/Detective--Crime-Fiction?page=8",
-      "https://1lib.us/category/205/Detective--Crime-Fiction?page=9",
-      "https://1lib.us/category/205/Detective--Crime-Fiction?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Historical",
-    "sub_categ_url": "https://1lib.us/category/206/Historical",
-    "book_url": [
-      "https://1lib.us/category/206/Historical?page=1",
-      "https://1lib.us/category/206/Historical?page=2",
-      "https://1lib.us/category/206/Historical?page=3",
-      "https://1lib.us/category/206/Historical?page=4",
-      "https://1lib.us/category/206/Historical?page=5",
-      "https://1lib.us/category/206/Historical?page=6",
-      "https://1lib.us/category/206/Historical?page=7",
-      "https://1lib.us/category/206/Historical?page=8",
-      "https://1lib.us/category/206/Historical?page=9",
-      "https://1lib.us/category/206/Historical?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Legal",
-    "sub_categ_url": "https://1lib.us/category/207/Legal",
-    "book_url": [
-      "https://1lib.us/category/207/Legal?page=1",
-      "https://1lib.us/category/207/Legal?page=2",
-      "https://1lib.us/category/207/Legal?page=3",
-      "https://1lib.us/category/207/Legal?page=4",
-      "https://1lib.us/category/207/Legal?page=5",
-      "https://1lib.us/category/207/Legal?page=6",
-      "https://1lib.us/category/207/Legal?page=7",
-      "https://1lib.us/category/207/Legal?page=8",
-      "https://1lib.us/category/207/Legal?page=9",
-      "https://1lib.us/category/207/Legal?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Medical",
-    "sub_categ_url": "https://1lib.us/category/208/Medical",
-    "book_url": [
-      "https://1lib.us/category/208/Medical?page=1",
-      "https://1lib.us/category/208/Medical?page=2",
-      "https://1lib.us/category/208/Medical?page=3",
-      "https://1lib.us/category/208/Medical?page=4",
-      "https://1lib.us/category/208/Medical?page=5",
-      "https://1lib.us/category/208/Medical?page=6",
-      "https://1lib.us/category/208/Medical?page=7",
-      "https://1lib.us/category/208/Medical?page=8",
-      "https://1lib.us/category/208/Medical?page=9",
-      "https://1lib.us/category/208/Medical?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Military Thrillers",
-    "sub_categ_url": "https://1lib.us/category/209/Military-Thrillers",
-    "book_url": [
-      "https://1lib.us/category/209/Military-Thrillers?page=1",
-      "https://1lib.us/category/209/Military-Thrillers?page=2",
-      "https://1lib.us/category/209/Military-Thrillers?page=3",
-      "https://1lib.us/category/209/Military-Thrillers?page=4",
-      "https://1lib.us/category/209/Military-Thrillers?page=5",
-      "https://1lib.us/category/209/Military-Thrillers?page=6",
-      "https://1lib.us/category/209/Military-Thrillers?page=7",
-      "https://1lib.us/category/209/Military-Thrillers?page=8",
-      "https://1lib.us/category/209/Military-Thrillers?page=9",
-      "https://1lib.us/category/209/Military-Thrillers?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Other Mystery Categories",
-    "sub_categ_url": "https://1lib.us/category/211/Other-Mystery-Categories",
-    "book_url": [
-      "https://1lib.us/category/211/Other-Mystery-Categories?page=1",
-      "https://1lib.us/category/211/Other-Mystery-Categories?page=2",
-      "https://1lib.us/category/211/Other-Mystery-Categories?page=3",
-      "https://1lib.us/category/211/Other-Mystery-Categories?page=4",
-      "https://1lib.us/category/211/Other-Mystery-Categories?page=5",
-      "https://1lib.us/category/211/Other-Mystery-Categories?page=6",
-      "https://1lib.us/category/211/Other-Mystery-Categories?page=7",
-      "https://1lib.us/category/211/Other-Mystery-Categories?page=8",
-      "https://1lib.us/category/211/Other-Mystery-Categories?page=9",
-      "https://1lib.us/category/211/Other-Mystery-Categories?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Other Thrillers Categories",
-    "sub_categ_url": "https://1lib.us/category/212/Other-Thrillers-Categories",
-    "book_url": [
-      "https://1lib.us/category/212/Other-Thrillers-Categories?page=1",
-      "https://1lib.us/category/212/Other-Thrillers-Categories?page=2",
-      "https://1lib.us/category/212/Other-Thrillers-Categories?page=3",
-      "https://1lib.us/category/212/Other-Thrillers-Categories?page=4",
-      "https://1lib.us/category/212/Other-Thrillers-Categories?page=5",
-      "https://1lib.us/category/212/Other-Thrillers-Categories?page=6",
-      "https://1lib.us/category/212/Other-Thrillers-Categories?page=7",
-      "https://1lib.us/category/212/Other-Thrillers-Categories?page=8",
-      "https://1lib.us/category/212/Other-Thrillers-Categories?page=9",
-      "https://1lib.us/category/212/Other-Thrillers-Categories?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Police Stories",
-    "sub_categ_url": "https://1lib.us/category/213/Police-Stories",
-    "book_url": [
-      "https://1lib.us/category/213/Police-Stories?page=1",
-      "https://1lib.us/category/213/Police-Stories?page=2",
-      "https://1lib.us/category/213/Police-Stories?page=3",
-      "https://1lib.us/category/213/Police-Stories?page=4",
-      "https://1lib.us/category/213/Police-Stories?page=5",
-      "https://1lib.us/category/213/Police-Stories?page=6",
-      "https://1lib.us/category/213/Police-Stories?page=7",
-      "https://1lib.us/category/213/Police-Stories?page=8",
-      "https://1lib.us/category/213/Police-Stories?page=9",
-      "https://1lib.us/category/213/Police-Stories?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Political",
-    "sub_categ_url": "https://1lib.us/category/214/Political",
-    "book_url": [
-      "https://1lib.us/category/214/Political?page=1",
-      "https://1lib.us/category/214/Political?page=2",
-      "https://1lib.us/category/214/Political?page=3",
-      "https://1lib.us/category/214/Political?page=4",
-      "https://1lib.us/category/214/Political?page=5",
-      "https://1lib.us/category/214/Political?page=6",
-      "https://1lib.us/category/214/Political?page=7",
-      "https://1lib.us/category/214/Political?page=8",
-      "https://1lib.us/category/214/Political?page=9",
-      "https://1lib.us/category/214/Political?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Psychological",
-    "sub_categ_url": "https://1lib.us/category/215/Psychological",
-    "book_url": [
-      "https://1lib.us/category/215/Psychological?page=1",
-      "https://1lib.us/category/215/Psychological?page=2",
-      "https://1lib.us/category/215/Psychological?page=3",
-      "https://1lib.us/category/215/Psychological?page=4",
-      "https://1lib.us/category/215/Psychological?page=5",
-      "https://1lib.us/category/215/Psychological?page=6",
-      "https://1lib.us/category/215/Psychological?page=7",
-      "https://1lib.us/category/215/Psychological?page=8",
-      "https://1lib.us/category/215/Psychological?page=9",
-      "https://1lib.us/category/215/Psychological?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Series",
-    "sub_categ_url": "https://1lib.us/category/216/Series",
-    "book_url": [
-      "https://1lib.us/category/216/Series?page=1",
-      "https://1lib.us/category/216/Series?page=2",
-      "https://1lib.us/category/216/Series?page=3",
-      "https://1lib.us/category/216/Series?page=4",
-      "https://1lib.us/category/216/Series?page=5",
-      "https://1lib.us/category/216/Series?page=6",
-      "https://1lib.us/category/216/Series?page=7",
-      "https://1lib.us/category/216/Series?page=8",
-      "https://1lib.us/category/216/Series?page=9",
-      "https://1lib.us/category/216/Series?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Short Stories",
-    "sub_categ_url": "https://1lib.us/category/218/Short-Stories",
-    "book_url": [
-      "https://1lib.us/category/218/Short-Stories?page=1",
-      "https://1lib.us/category/218/Short-Stories?page=2",
-      "https://1lib.us/category/218/Short-Stories?page=3",
-      "https://1lib.us/category/218/Short-Stories?page=4",
-      "https://1lib.us/category/218/Short-Stories?page=5",
-      "https://1lib.us/category/218/Short-Stories?page=6",
-      "https://1lib.us/category/218/Short-Stories?page=7",
-      "https://1lib.us/category/218/Short-Stories?page=8",
-      "https://1lib.us/category/218/Short-Stories?page=9",
-      "https://1lib.us/category/218/Short-Stories?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Spy Stories",
-    "sub_categ_url": "https://1lib.us/category/219/Spy-Stories",
-    "book_url": [
-      "https://1lib.us/category/219/Spy-Stories?page=1",
-      "https://1lib.us/category/219/Spy-Stories?page=2",
-      "https://1lib.us/category/219/Spy-Stories?page=3",
-      "https://1lib.us/category/219/Spy-Stories?page=4",
-      "https://1lib.us/category/219/Spy-Stories?page=5",
-      "https://1lib.us/category/219/Spy-Stories?page=6",
-      "https://1lib.us/category/219/Spy-Stories?page=7",
-      "https://1lib.us/category/219/Spy-Stories?page=8",
-      "https://1lib.us/category/219/Spy-Stories?page=9",
-      "https://1lib.us/category/219/Spy-Stories?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Technothrillers",
-    "sub_categ_url": "https://1lib.us/category/220/Technothrillers",
-    "book_url": [
-      "https://1lib.us/category/220/Technothrillers?page=1",
-      "https://1lib.us/category/220/Technothrillers?page=2",
-      "https://1lib.us/category/220/Technothrillers?page=3",
-      "https://1lib.us/category/220/Technothrillers?page=4",
-      "https://1lib.us/category/220/Technothrillers?page=5",
-      "https://1lib.us/category/220/Technothrillers?page=6",
-      "https://1lib.us/category/220/Technothrillers?page=7",
-      "https://1lib.us/category/220/Technothrillers?page=8",
-      "https://1lib.us/category/220/Technothrillers?page=9",
-      "https://1lib.us/category/220/Technothrillers?page=10"
-    ]
-  },
-  {
-    "category": "Crime, Thrillers & Mystery",
-    "sub_categ": "Thrillers",
-    "sub_categ_url": "https://1lib.us/category/221/Thrillers",
-    "book_url": [
-      "https://1lib.us/category/221/Thrillers?page=1",
-      "https://1lib.us/category/221/Thrillers?page=2",
-      "https://1lib.us/category/221/Thrillers?page=3",
-      "https://1lib.us/category/221/Thrillers?page=4",
-      "https://1lib.us/category/221/Thrillers?page=5",
-      "https://1lib.us/category/221/Thrillers?page=6",
-      "https://1lib.us/category/221/Thrillers?page=7",
-      "https://1lib.us/category/221/Thrillers?page=8",
-      "https://1lib.us/category/221/Thrillers?page=9",
-      "https://1lib.us/category/221/Thrillers?page=10"
+      "https://1lib.us/category/224/Adult--Continuing-Education?page=1",
+      "https://1lib.us/category/224/Adult--Continuing-Education?page=2",
+      "https://1lib.us/category/224/Adult--Continuing-Education?page=3",
+      "https://1lib.us/category/224/Adult--Continuing-Education?page=4",
+      "https://1lib.us/category/224/Adult--Continuing-Education?page=5",
+      "https://1lib.us/category/224/Adult--Continuing-Education?page=6",
+      "https://1lib.us/category/224/Adult--Continuing-Education?page=7",
+      "https://1lib.us/category/224/Adult--Continuing-Education?page=8",
+      "https://1lib.us/category/224/Adult--Continuing-Education?page=9",
+      "https://1lib.us/category/224/Adult--Continuing-Education?page=10"
     ]
   },
   {
     "category": "Education Studies & Teaching",
-    "sub_categ": "Academic Administration",
-    "sub_categ_url": "https://1lib.us/category/223/Academic-Administration",
+    "sub_categ": "Bilingual & Multicultural Education",
+    "sub_categ_url": "https://1lib.us/category/225/Bilingual--Multicultural-Education",
     "book_url": [
-      "https://1lib.us/category/223/Academic-Administration?page=1",
-      "https://1lib.us/category/223/Academic-Administration?page=2",
-      "https://1lib.us/category/223/Academic-Administration?page=3",
-      "https://1lib.us/category/223/Academic-Administration?page=4",
-      "https://1lib.us/category/223/Academic-Administration?page=5",
-      "https://1lib.us/category/223/Academic-Administration?page=6",
-      "https://1lib.us/category/223/Academic-Administration?page=7",
-      "https://1lib.us/category/223/Academic-Administration?page=8",
-      "https://1lib.us/category/223/Academic-Administration?page=9",
-      "https://1lib.us/category/223/Academic-Administration?page=10"
+      "https://1lib.us/category/225/Bilingual--Multicultural-Education?page=1",
+      "https://1lib.us/category/225/Bilingual--Multicultural-Education?page=2",
+      "https://1lib.us/category/225/Bilingual--Multicultural-Education?page=3",
+      "https://1lib.us/category/225/Bilingual--Multicultural-Education?page=4",
+      "https://1lib.us/category/225/Bilingual--Multicultural-Education?page=5",
+      "https://1lib.us/category/225/Bilingual--Multicultural-Education?page=6",
+      "https://1lib.us/category/225/Bilingual--Multicultural-Education?page=7",
+      "https://1lib.us/category/225/Bilingual--Multicultural-Education?page=8",
+      "https://1lib.us/category/225/Bilingual--Multicultural-Education?page=9",
+      "https://1lib.us/category/225/Bilingual--Multicultural-Education?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Education - General & Miscellaneous",
+    "sub_categ_url": "https://1lib.us/category/226/Education---General--Miscellaneous",
+    "book_url": [
+      "https://1lib.us/category/226/Education---General--Miscellaneous?page=1",
+      "https://1lib.us/category/226/Education---General--Miscellaneous?page=2",
+      "https://1lib.us/category/226/Education---General--Miscellaneous?page=3",
+      "https://1lib.us/category/226/Education---General--Miscellaneous?page=4",
+      "https://1lib.us/category/226/Education---General--Miscellaneous?page=5",
+      "https://1lib.us/category/226/Education---General--Miscellaneous?page=6",
+      "https://1lib.us/category/226/Education---General--Miscellaneous?page=7",
+      "https://1lib.us/category/226/Education---General--Miscellaneous?page=8",
+      "https://1lib.us/category/226/Education---General--Miscellaneous?page=9",
+      "https://1lib.us/category/226/Education---General--Miscellaneous?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Education Management & Organisation",
+    "sub_categ_url": "https://1lib.us/category/228/Education-Management--Organisation",
+    "book_url": [
+      "https://1lib.us/category/228/Education-Management--Organisation?page=1",
+      "https://1lib.us/category/228/Education-Management--Organisation?page=2",
+      "https://1lib.us/category/228/Education-Management--Organisation?page=3",
+      "https://1lib.us/category/228/Education-Management--Organisation?page=4",
+      "https://1lib.us/category/228/Education-Management--Organisation?page=5",
+      "https://1lib.us/category/228/Education-Management--Organisation?page=6",
+      "https://1lib.us/category/228/Education-Management--Organisation?page=7",
+      "https://1lib.us/category/228/Education-Management--Organisation?page=8",
+      "https://1lib.us/category/228/Education-Management--Organisation?page=9",
+      "https://1lib.us/category/228/Education-Management--Organisation?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Educational Guidance & Counseling",
+    "sub_categ_url": "https://1lib.us/category/229/Educational-Guidance--Counseling",
+    "book_url": [
+      "https://1lib.us/category/229/Educational-Guidance--Counseling?page=1",
+      "https://1lib.us/category/229/Educational-Guidance--Counseling?page=2",
+      "https://1lib.us/category/229/Educational-Guidance--Counseling?page=3",
+      "https://1lib.us/category/229/Educational-Guidance--Counseling?page=4",
+      "https://1lib.us/category/229/Educational-Guidance--Counseling?page=5",
+      "https://1lib.us/category/229/Educational-Guidance--Counseling?page=6",
+      "https://1lib.us/category/229/Educational-Guidance--Counseling?page=7",
+      "https://1lib.us/category/229/Educational-Guidance--Counseling?page=8",
+      "https://1lib.us/category/229/Educational-Guidance--Counseling?page=9",
+      "https://1lib.us/category/229/Educational-Guidance--Counseling?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Educational Theory, Research & History",
+    "sub_categ_url": "https://1lib.us/category/231/Educational-Theory-Research--History",
+    "book_url": [
+      "https://1lib.us/category/231/Educational-Theory-Research--History?page=1",
+      "https://1lib.us/category/231/Educational-Theory-Research--History?page=2",
+      "https://1lib.us/category/231/Educational-Theory-Research--History?page=3",
+      "https://1lib.us/category/231/Educational-Theory-Research--History?page=4",
+      "https://1lib.us/category/231/Educational-Theory-Research--History?page=5",
+      "https://1lib.us/category/231/Educational-Theory-Research--History?page=6",
+      "https://1lib.us/category/231/Educational-Theory-Research--History?page=7",
+      "https://1lib.us/category/231/Educational-Theory-Research--History?page=8",
+      "https://1lib.us/category/231/Educational-Theory-Research--History?page=9",
+      "https://1lib.us/category/231/Educational-Theory-Research--History?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Elementary",
+    "sub_categ_url": "https://1lib.us/category/232/Elementary",
+    "book_url": [
+      "https://1lib.us/category/232/Elementary?page=1",
+      "https://1lib.us/category/232/Elementary?page=2",
+      "https://1lib.us/category/232/Elementary?page=3",
+      "https://1lib.us/category/232/Elementary?page=4",
+      "https://1lib.us/category/232/Elementary?page=5",
+      "https://1lib.us/category/232/Elementary?page=6",
+      "https://1lib.us/category/232/Elementary?page=7",
+      "https://1lib.us/category/232/Elementary?page=8",
+      "https://1lib.us/category/232/Elementary?page=9",
+      "https://1lib.us/category/232/Elementary?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Higher & Further Education",
+    "sub_categ_url": "https://1lib.us/category/233/Higher--Further-Education",
+    "book_url": [
+      "https://1lib.us/category/233/Higher--Further-Education?page=1",
+      "https://1lib.us/category/233/Higher--Further-Education?page=2",
+      "https://1lib.us/category/233/Higher--Further-Education?page=3",
+      "https://1lib.us/category/233/Higher--Further-Education?page=4",
+      "https://1lib.us/category/233/Higher--Further-Education?page=5",
+      "https://1lib.us/category/233/Higher--Further-Education?page=6",
+      "https://1lib.us/category/233/Higher--Further-Education?page=7",
+      "https://1lib.us/category/233/Higher--Further-Education?page=8",
+      "https://1lib.us/category/233/Higher--Further-Education?page=9",
+      "https://1lib.us/category/233/Higher--Further-Education?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "History of Education",
+    "sub_categ_url": "https://1lib.us/category/234/History-of-Education",
+    "book_url": [
+      "https://1lib.us/category/234/History-of-Education?page=1",
+      "https://1lib.us/category/234/History-of-Education?page=2",
+      "https://1lib.us/category/234/History-of-Education?page=3",
+      "https://1lib.us/category/234/History-of-Education?page=4",
+      "https://1lib.us/category/234/History-of-Education?page=5",
+      "https://1lib.us/category/234/History-of-Education?page=6",
+      "https://1lib.us/category/234/History-of-Education?page=7",
+      "https://1lib.us/category/234/History-of-Education?page=8",
+      "https://1lib.us/category/234/History-of-Education?page=9",
+      "https://1lib.us/category/234/History-of-Education?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Homeschooling",
+    "sub_categ_url": "https://1lib.us/category/235/Homeschooling",
+    "book_url": [
+      "https://1lib.us/category/235/Homeschooling?page=1",
+      "https://1lib.us/category/235/Homeschooling?page=2",
+      "https://1lib.us/category/235/Homeschooling?page=3",
+      "https://1lib.us/category/235/Homeschooling?page=4",
+      "https://1lib.us/category/235/Homeschooling?page=5",
+      "https://1lib.us/category/235/Homeschooling?page=6",
+      "https://1lib.us/category/235/Homeschooling?page=7",
+      "https://1lib.us/category/235/Homeschooling?page=8",
+      "https://1lib.us/category/235/Homeschooling?page=9",
+      "https://1lib.us/category/235/Homeschooling?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Individual Colleges & Universities",
+    "sub_categ_url": "https://1lib.us/category/236/Individual-Colleges--Universities",
+    "book_url": [
+      "https://1lib.us/category/236/Individual-Colleges--Universities?page=1",
+      "https://1lib.us/category/236/Individual-Colleges--Universities?page=2",
+      "https://1lib.us/category/236/Individual-Colleges--Universities?page=3",
+      "https://1lib.us/category/236/Individual-Colleges--Universities?page=4",
+      "https://1lib.us/category/236/Individual-Colleges--Universities?page=5",
+      "https://1lib.us/category/236/Individual-Colleges--Universities?page=6",
+      "https://1lib.us/category/236/Individual-Colleges--Universities?page=7",
+      "https://1lib.us/category/236/Individual-Colleges--Universities?page=8",
+      "https://1lib.us/category/236/Individual-Colleges--Universities?page=9",
+      "https://1lib.us/category/236/Individual-Colleges--Universities?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "International Conferences and Symposiums",
+    "sub_categ_url": "https://1lib.us/category/237/International-Conferences-and-Symposiums",
+    "book_url": [
+      "https://1lib.us/category/237/International-Conferences-and-Symposiums?page=1",
+      "https://1lib.us/category/237/International-Conferences-and-Symposiums?page=2",
+      "https://1lib.us/category/237/International-Conferences-and-Symposiums?page=3",
+      "https://1lib.us/category/237/International-Conferences-and-Symposiums?page=4",
+      "https://1lib.us/category/237/International-Conferences-and-Symposiums?page=5",
+      "https://1lib.us/category/237/International-Conferences-and-Symposiums?page=6",
+      "https://1lib.us/category/237/International-Conferences-and-Symposiums?page=7",
+      "https://1lib.us/category/237/International-Conferences-and-Symposiums?page=8",
+      "https://1lib.us/category/237/International-Conferences-and-Symposiums?page=9",
+      "https://1lib.us/category/237/International-Conferences-and-Symposiums?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Pre-school & Early Learning",
+    "sub_categ_url": "https://1lib.us/category/238/Pre-school--Early-Learning",
+    "book_url": [
+      "https://1lib.us/category/238/Pre-school--Early-Learning?page=1",
+      "https://1lib.us/category/238/Pre-school--Early-Learning?page=2",
+      "https://1lib.us/category/238/Pre-school--Early-Learning?page=3",
+      "https://1lib.us/category/238/Pre-school--Early-Learning?page=4",
+      "https://1lib.us/category/238/Pre-school--Early-Learning?page=5",
+      "https://1lib.us/category/238/Pre-school--Early-Learning?page=6",
+      "https://1lib.us/category/238/Pre-school--Early-Learning?page=7",
+      "https://1lib.us/category/238/Pre-school--Early-Learning?page=8",
+      "https://1lib.us/category/238/Pre-school--Early-Learning?page=9",
+      "https://1lib.us/category/238/Pre-school--Early-Learning?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Philosophy of Education",
+    "sub_categ_url": "https://1lib.us/category/239/Philosophy-of-Education",
+    "book_url": [
+      "https://1lib.us/category/239/Philosophy-of-Education?page=1",
+      "https://1lib.us/category/239/Philosophy-of-Education?page=2",
+      "https://1lib.us/category/239/Philosophy-of-Education?page=3",
+      "https://1lib.us/category/239/Philosophy-of-Education?page=4",
+      "https://1lib.us/category/239/Philosophy-of-Education?page=5",
+      "https://1lib.us/category/239/Philosophy-of-Education?page=6",
+      "https://1lib.us/category/239/Philosophy-of-Education?page=7",
+      "https://1lib.us/category/239/Philosophy-of-Education?page=8",
+      "https://1lib.us/category/239/Philosophy-of-Education?page=9",
+      "https://1lib.us/category/239/Philosophy-of-Education?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "School Education & Teaching",
+    "sub_categ_url": "https://1lib.us/category/240/School-Education--Teaching",
+    "book_url": [
+      "https://1lib.us/category/240/School-Education--Teaching?page=1",
+      "https://1lib.us/category/240/School-Education--Teaching?page=2",
+      "https://1lib.us/category/240/School-Education--Teaching?page=3",
+      "https://1lib.us/category/240/School-Education--Teaching?page=4",
+      "https://1lib.us/category/240/School-Education--Teaching?page=5",
+      "https://1lib.us/category/240/School-Education--Teaching?page=6",
+      "https://1lib.us/category/240/School-Education--Teaching?page=7",
+      "https://1lib.us/category/240/School-Education--Teaching?page=8",
+      "https://1lib.us/category/240/School-Education--Teaching?page=9",
+      "https://1lib.us/category/240/School-Education--Teaching?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Special Education",
+    "sub_categ_url": "https://1lib.us/category/241/Special-Education",
+    "book_url": [
+      "https://1lib.us/category/241/Special-Education?page=1",
+      "https://1lib.us/category/241/Special-Education?page=2",
+      "https://1lib.us/category/241/Special-Education?page=3",
+      "https://1lib.us/category/241/Special-Education?page=4",
+      "https://1lib.us/category/241/Special-Education?page=5",
+      "https://1lib.us/category/241/Special-Education?page=6",
+      "https://1lib.us/category/241/Special-Education?page=7",
+      "https://1lib.us/category/241/Special-Education?page=8",
+      "https://1lib.us/category/241/Special-Education?page=9",
+      "https://1lib.us/category/241/Special-Education?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Studying & Test Preparation",
+    "sub_categ_url": "https://1lib.us/category/242/Studying--Test-Preparation",
+    "book_url": [
+      "https://1lib.us/category/242/Studying--Test-Preparation?page=1",
+      "https://1lib.us/category/242/Studying--Test-Preparation?page=2",
+      "https://1lib.us/category/242/Studying--Test-Preparation?page=3",
+      "https://1lib.us/category/242/Studying--Test-Preparation?page=4",
+      "https://1lib.us/category/242/Studying--Test-Preparation?page=5",
+      "https://1lib.us/category/242/Studying--Test-Preparation?page=6",
+      "https://1lib.us/category/242/Studying--Test-Preparation?page=7",
+      "https://1lib.us/category/242/Studying--Test-Preparation?page=8",
+      "https://1lib.us/category/242/Studying--Test-Preparation?page=9",
+      "https://1lib.us/category/242/Studying--Test-Preparation?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Teaching - Reading & Language",
+    "sub_categ_url": "https://1lib.us/category/243/Teaching---Reading--Language",
+    "book_url": [
+      "https://1lib.us/category/243/Teaching---Reading--Language?page=1",
+      "https://1lib.us/category/243/Teaching---Reading--Language?page=2",
+      "https://1lib.us/category/243/Teaching---Reading--Language?page=3",
+      "https://1lib.us/category/243/Teaching---Reading--Language?page=4",
+      "https://1lib.us/category/243/Teaching---Reading--Language?page=5",
+      "https://1lib.us/category/243/Teaching---Reading--Language?page=6",
+      "https://1lib.us/category/243/Teaching---Reading--Language?page=7",
+      "https://1lib.us/category/243/Teaching---Reading--Language?page=8",
+      "https://1lib.us/category/243/Teaching---Reading--Language?page=9",
+      "https://1lib.us/category/243/Teaching---Reading--Language?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Teaching & Teacher Training",
+    "sub_categ_url": "https://1lib.us/category/244/Teaching--Teacher-Training",
+    "book_url": [
+      "https://1lib.us/category/244/Teaching--Teacher-Training?page=1",
+      "https://1lib.us/category/244/Teaching--Teacher-Training?page=2",
+      "https://1lib.us/category/244/Teaching--Teacher-Training?page=3",
+      "https://1lib.us/category/244/Teaching--Teacher-Training?page=4",
+      "https://1lib.us/category/244/Teaching--Teacher-Training?page=5",
+      "https://1lib.us/category/244/Teaching--Teacher-Training?page=6",
+      "https://1lib.us/category/244/Teaching--Teacher-Training?page=7",
+      "https://1lib.us/category/244/Teaching--Teacher-Training?page=8",
+      "https://1lib.us/category/244/Teaching--Teacher-Training?page=9",
+      "https://1lib.us/category/244/Teaching--Teacher-Training?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Theses abstracts",
+    "sub_categ_url": "https://1lib.us/category/245/Theses-abstracts",
+    "book_url": [
+      "https://1lib.us/category/245/Theses-abstracts?page=1",
+      "https://1lib.us/category/245/Theses-abstracts?page=2",
+      "https://1lib.us/category/245/Theses-abstracts?page=3",
+      "https://1lib.us/category/245/Theses-abstracts?page=4",
+      "https://1lib.us/category/245/Theses-abstracts?page=5",
+      "https://1lib.us/category/245/Theses-abstracts?page=6",
+      "https://1lib.us/category/245/Theses-abstracts?page=7",
+      "https://1lib.us/category/245/Theses-abstracts?page=8",
+      "https://1lib.us/category/245/Theses-abstracts?page=9",
+      "https://1lib.us/category/245/Theses-abstracts?page=10"
+    ]
+  },
+  {
+    "category": "Education Studies & Teaching",
+    "sub_categ": "Vocational",
+    "sub_categ_url": "https://1lib.us/category/721/Vocational",
+    "book_url": [
+      "https://1lib.us/category/721/Vocational?page=1",
+      "https://1lib.us/category/721/Vocational?page=2",
+      "https://1lib.us/category/721/Vocational?page=3",
+      "https://1lib.us/category/721/Vocational?page=4",
+      "https://1lib.us/category/721/Vocational?page=5",
+      "https://1lib.us/category/721/Vocational?page=6",
+      "https://1lib.us/category/721/Vocational?page=7",
+      "https://1lib.us/category/721/Vocational?page=8",
+      "https://1lib.us/category/721/Vocational?page=9",
+      "https://1lib.us/category/721/Vocational?page=10"
     ]
   }]
